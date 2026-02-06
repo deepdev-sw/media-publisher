@@ -1,0 +1,6 @@
+publish.html
+scraped.html
+.trae
+dist
+node_modules
+src-tauri/target
